@@ -44,7 +44,7 @@ public class Test6 {
 			//이를 지역변수라고 한다.
 			int b = 0; //여기서만 사용가능하다.
 			System.out.println(b + 5); //< 그래서 얘는 사용가능하지만
-		} //if문 끝
+		} //if문 끝. 그러면 지역변수 사용가능 영역도 끝!
 		
 		 //System.out.println(b + 5); //< 얘는 사용불가하다.(오류남)
 		
