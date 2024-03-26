@@ -16,8 +16,8 @@ public class Test4 {
 		//100 초과면 "잘못된 값", 이하일 경우 "적절한 값" < 조건연산자를 활용하여 구현
 		
 		System.out.println((num1>100) ? "잘못된 값" : "적절한 값");
-		System.out.println((num1>100) ? "잘못된 값" : num1);
-		System.out.println((num1>100) ? num1 : "적절한 값");
+		System.out.println((num1>100) ? "잘못된 값" : num1); // 변수에 저장하지않기에 가능한 것이지만
+		System.out.println((num1>100) ? num1 : "적절한 값"); // 그리 추천하지는 않는다.
 
 	}
 

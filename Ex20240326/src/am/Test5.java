@@ -15,7 +15,9 @@ public class Test5 {
 		//100 초과는 허용하지 않음. 100 초과는 100으로 나눈 나머지 값만 출력
 		int num2 = (num1>100) ? (num1%100): (num1);
 		System.out.println(num2);
-		
+
+		int num3 = (num1>100) ? (num1%100): ((num1<0) ? ((num1*-1)%100): (num1));
+		System.out.println(num3);
 
 	}
 

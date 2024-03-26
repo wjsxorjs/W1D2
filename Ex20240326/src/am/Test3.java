@@ -14,8 +14,6 @@ public class Test3 {
 		int a = 10;
 		int b = 7;
 		
-		
-		
 		String result1 = (a>b) ? "A가 B보다 크다" : "A가 B보다 크지는 않다.";
 		String result2 = (a==b) ? "A가 B보다 크다" : "A가 B보다 크지는 않다.";
 		String result3 = (a==b) ? "A와 B는 같다" : (a>b) ? "A가 B보다 더 크다" : "B가 A보다 더 크다.";

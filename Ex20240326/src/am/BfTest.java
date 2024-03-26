@@ -1,6 +1,6 @@
 package am;
 
-public class Bf_test {
+public class BfTest {
 
 //	public static void func1() {
 //		System.out.println("TO FUNC2!");
