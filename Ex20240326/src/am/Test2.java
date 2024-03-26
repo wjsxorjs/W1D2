@@ -13,9 +13,15 @@ public class Test2 {
 		
 		int a = 10;
 		int b = 7;
-		
-		a += b; // a = a+b;
 		System.out.println("a: "+a+", b: "+b);
+		
+		a += b; // a = a+b; a의 값(10)을 b의 값(7)으로 더한 값(17)을 a에 저장한다.
+		System.out.println("a+b: "+a);
+		
+		a %= b; // a의 값(17)을 b의 값(7)으로 나눈 나머지 값(3)을 a에 저장한다.
+	
+		System.out.println("a%b: "+a);
+		
 
 	}
 
