@@ -117,11 +117,10 @@ public class BfTest {
 		double x2 = 5.0;
 		double y2 = 0.0;
 		double z2 = x2 / y2;
-		System.out.println(z2);
-		if (y2 == 0.0) {
+		if (Double.isNaN(z2) || Double.isInfinite(z2)) {
 			System.out.println("0.0으로 나눌 수 없습니다.");
 		} else {
-			double result1 = z + 10;
+			double result1 = z2 + 10;
 			System.out.printf("결과: %f\n", result1);
 		}
 		
