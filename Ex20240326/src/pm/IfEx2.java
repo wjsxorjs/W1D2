@@ -2,7 +2,7 @@ package pm;
 
 import java.util.Scanner;
 
-public class Test2 {
+public class IfEx2 {
 
 	public static void main(String[] args) {
 		/*

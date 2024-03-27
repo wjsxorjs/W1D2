@@ -1,6 +1,6 @@
 package pm;
 
-public class Test8 {
+public class ForEx8 {
 
 	public static void main(String[] args) {
 		// 난수만큼 반복문

@@ -2,7 +2,7 @@ package am;
 
 import java.util.Scanner;
 
-public class Test9 {
+public class IfEx9 {
 
 	public static void main(String[] args) {
 		// 화면에 점수 입력 문자출력

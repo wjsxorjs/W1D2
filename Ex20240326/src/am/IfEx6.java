@@ -1,6 +1,6 @@
 package am;
 
-public class Test6 {
+public class IfEx6 {
 
 	public static void main(String[] args) {
 		//		p.s.: 명명규칙.  class는 대문자로 시작. 소문자로 시작하는 변수와 함수 중 함수는 ()가 따라옴

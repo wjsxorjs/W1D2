@@ -1,6 +1,6 @@
 package am;
 
-public class Test7 {
+public class IfEx7 {
 
 	public static void main(String[] args) {
 		/*

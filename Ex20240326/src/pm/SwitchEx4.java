@@ -2,7 +2,7 @@ package pm;
 
 import java.util.Scanner;
 
-public class Test4 {
+public class SwitchEx4 {
 
 	public static void main(String[] args) {		
 		System.out.print("코드(S,E,L) 입력: ");

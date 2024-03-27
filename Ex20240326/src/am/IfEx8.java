@@ -2,7 +2,7 @@ package am;
 
 import java.util.Scanner;
 
-public class Test8 {
+public class IfEx8 {
 
 	public static void main(String[] args) {
 		// 키보드로부터 점수를 입력받아서 60점 이상이면 "합격!!!", 미만이면 "다음 기회에..."

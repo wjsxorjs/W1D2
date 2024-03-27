@@ -1,6 +1,6 @@
 package pm;
 
-public class Test6 {
+public class ForEx6 {
 
 	public static void main(String[] args) {
 		// 단순반복문

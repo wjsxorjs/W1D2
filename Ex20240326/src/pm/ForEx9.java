@@ -1,6 +1,6 @@
 package pm;
 
-public class Test9 {
+public class ForEx9 {
 
 	public static void main(String[] args) {
 		// 구구단을 외자. 구구단을 외자.

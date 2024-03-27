@@ -2,7 +2,7 @@ package pm;
 
 import java.util.Scanner;
 
-public class Test1 {
+public class IfEx1 {
 
 	public static void main(String[] args) {
 		System.out.print("값 입력: ");

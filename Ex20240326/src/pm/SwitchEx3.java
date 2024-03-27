@@ -2,7 +2,7 @@ package pm;
 
 import java.util.Scanner;
 
-public class Test3 {
+public class SwitchEx3 {
 
 	public static void main(String[] args) {
 		

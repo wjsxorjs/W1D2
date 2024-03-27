@@ -1,6 +1,6 @@
 package pm;
 
-public class Test7 {
+public class ForEx7 {
 
 	public static void main(String[] args) {
 		// 1부터 10까지의 합 출력
